@@ -12,6 +12,12 @@ To view and interact with the Power BI dashboard, users must have Power BI Deskt
 
 ![power-bi-icon-7](https://user-images.githubusercontent.com/105154794/233364101-87332619-c168-4731-8464-3195bc00b010.png)
 
+## End-to-End Implementation
+Step-1. Connecting Database with Power BI Desktop.
+Step-2. Analyzing the tables and relations.
+Step-3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).
+Step-4. Developing an Interactive BI Dashboard / Report.
+
 ## Usage
 To use the Power BI dashboard, simply download the project files from the GitHub repository and open the .pbix file in Power BI Desktop. From there, users can interact with the dashboard, explore the data, and generate insights. Alternatively, users can view the dashboard in Power BI Service by uploading the .pbix file to their Power BI account.
 
