@@ -4,7 +4,8 @@
 This project is focused on analyzing the global sales data using Power BI. The project is designed to showcase the capability of Power BI in visualizing data, identifying trends, and creating insights for business users. The data used in this project is a sample dataset of global sales data, which includes information on sales revenue, product categories, and geographic regions.
 
 ## Interactive Dashboard 
-![Global Sales Dashboard](https://user-images.githubusercontent.com/105154794/233366694-d10241ec-03db-425c-ba43-0c613fd538ce.png)
+![image](https://user-images.githubusercontent.com/105154794/233374485-1a9607ad-91d6-4fe8-9914-acc5a94f3f83.png)
+
 
 ## Requirements
 To view and interact with the Power BI dashboard, users must have Power BI Desktop or Power BI Service installed on their computer. The dashboard is optimized for desktop and web use and may not be fully functional on mobile devices. The sample data used in the project is included in the project files.
